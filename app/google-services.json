@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "149771626504",
+    "firebase_url": "https://tftapp-9a802.firebaseio.com",
+    "project_id": "tftapp-9a802",
+    "storage_bucket": "tftapp-9a802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149771626504:android:c8a3b494292a806b",
+        "android_client_info": {
+          "package_name": "com.darshit.tftapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149771626504-9rdnj6kd0ipold81c5kqk0aev1trlte1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darshit.tftapp",
+            "certificate_hash": "cc4447d20fd889f88fa556b9d92670f9a59386e9"
+          }
+        },
+        {
+          "client_id": "149771626504-lq9l26di9vsk8o8r62vvdar1s3mai3ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWYTYmXvr74Gnpq-DoJf0So5UIWVaUo40"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149771626504-lq9l26di9vsk8o8r62vvdar1s3mai3ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
